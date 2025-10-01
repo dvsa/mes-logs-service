@@ -25,9 +25,9 @@
     "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner"
   },
   "dependencies": {
-    "@aws-sdk/client-cloudwatch-logs": "^3.529.0",
-    "@dvsa/mes-microservice-common": "1.2.0",
-    "moment": "^2.29.4"
+    "@aws-sdk/client-cloudwatch-logs": "^3.899.0",
+    "@dvsa/mes-microservice-common": "1.2.1",
+    "moment": "^2.30.1"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.126",
