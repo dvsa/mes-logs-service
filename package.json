@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-cloudwatch-logs": "^3.529.0",
-    "@dvsa/mes-microservice-common": "1.2.0",
+    "@dvsa/mes-microservice-common": "1.2.1",
     "moment": "^2.29.4"
   },
   "devDependencies": {
